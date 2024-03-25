@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bdtX6sm08FzScg4QChF2t6gF19Guhuw7VOIo/fLr/4U=",
+  "Source": "Dotnet8-DockerProfile",
+  "BasePath": "_content/Dotnet8-DockerProfile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
